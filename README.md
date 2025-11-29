@@ -21,13 +21,6 @@ recipe-recommendation-engine/
 │   ├── recipes.html
 │   ├── recipes.txt
 │   └── recipe_utils.py
-├── images/
-│   ├── recursive_splitting.png
-│   ├── token_splitting.png
-│   ├── semantic_splitting.png
-│   ├── vector_store.png
-│   ├── neo4j_schema.png
-│   └── evaluation_results.png
 ├── notebooks/
 │   └── recipe_recommendation_engine.ipynb
 ├── reports/
@@ -40,7 +33,7 @@ recipe-recommendation-engine/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/recipe-recommendation-engine.git
+git clone https://github.com/natashafatii/recipe-recommendation-engine.git
 cd recipe-recommendation-engine
 ```
 
