@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="ingredient_count" for="node" attr.name="ingredient_count"/>
+<key id="step_number" for="node" attr.name="step_number"/>
+<key id="name" for="node" attr.name="name"/>
+<key id="step_count" for="node" attr.name="step_count"/>
+<key id="cuisine" for="node" attr.name="cuisine"/>
+<key id="description" for="node" attr.name="description"/>
+<key id="id" for="node" attr.name="id"/>
+<key id="source" for="node" attr.name="source"/>
+<key id="text" for="node" attr.name="text"/>
+<key id="labels" for="node" attr.name="labels"/>
+<key id="order" for="node" attr.name="order"/>
+<key id="label" for="edge" attr.name="label"/>
+<graph id="G" edgedefault="directed">
+<node id="n0" labels=":Document"><data key="labels">:Document</data><data key="id">d08e9f0d10b819d90570d6c6dbbe9c6b</data><data key="source">Vegetable Stir Fry</data><data key="text">Recipe: Vegetable Stir Fry
+Cuisine: Asian
+Ingredients: 2 bell peppers, sliced, 1 cup broccoli florets, 2 carrots, sliced, 3 tablespoons soy sauce, 1 tablespoon ginger, minced, 2 cloves garlic, minced, 2 tablespoons vegetable oil</data></node>
+<node id="n1" labels=":Recipe:__Entity__"><data key="labels">:Recipe:__Entity__</data><data key="id">recipe_17</data><data key="name">Vegetable Stir Fry</data><data key="cuisine">Asian</data><data key="step_count">6</data><data key="ingredient_count">7</data></node>
+<node id="n2" labels=":Cuisine:__Entity__"><data key="labels">:Cuisine:__Entity__</data><data key="id">cuisine_31</data><data key="name">Asian</data></node>
+<node id="n3" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_18</data><data key="name">Peppers, Sliced</data></node>
+<node id="n4" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_19</data><data key="name">Broccoli Florets</data></node>
+<node id="n5" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_20</data><data key="name">, Sliced</data></node>
+<node id="n6" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_21</data><data key="name">Soy Sauce</data></node>
+<node id="n7" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_22</data><data key="name">Ginger, Minced</data></node>
+<node id="n8" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_23</data><data key="name">Garlic, Minced</data></node>
+<node id="n9" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_24</data><data key="name">Vegetable Oil</data></node>
+<node id="n10" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_25</data><data key="step_number">1</data><data key="description">Chop all vegetables into bite-sized pieces.</data><data key="order">1</data></node>
+<node id="n11" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_26</data><data key="step_number">2</data><data key="description">Heat oil in wok or large pan over high heat.</data><data key="order">2</data></node>
+<node id="n12" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_27</data><data key="step_number">3</data><data key="description">Stir-fry vegetables until tender-crisp, about 5-7 minutes.</data><data key="order">3</data></node>
+<node id="n13" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_28</data><data key="step_number">4</data><data key="description">Add ginger, garlic and soy sauce.</data><data key="order">4</data></node>
+<node id="n14" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_29</data><data key="step_number">5</data><data key="description">Cook for another 2 minutes, stirring constantly.</data><data key="order">5</data></node>
+<node id="n15" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_30</data><data key="step_number">6</data><data key="description">Serve immediately with rice or noodles.</data><data key="order">6</data></node>
+<node id="n16" labels=":Document"><data key="labels">:Document</data><data key="id">04c67accf583dc81bea29dff5ad28f7a</data><data key="source">Chocolate Chip Cookies</data><data key="text">Recipe: Chocolate Chip Cookies
+Cuisine: American
+Ingredients: 2 cups all-purpose flour, 1 cup butter, softened, 1 cup brown sugar, 1/2 cup white sugar, 2 cups chocolate chips, 2 large eggs, 2 teaspoons vanilla extract, 1 teaspoon baking soda</data></node>
+<node id="n17" labels=":Recipe:__Entity__"><data key="labels">:Recipe:__Entity__</data><data key="id">recipe_32</data><data key="name">Chocolate Chip Cookies</data><data key="cuisine">American</data><data key="step_count">7</data><data key="ingredient_count">8</data></node>
+<node id="n18" labels=":Cuisine:__Entity__"><data key="labels">:Cuisine:__Entity__</data><data key="id">cuisine_48</data><data key="name">American</data></node>
+<node id="n19" labels=":Document"><data key="labels">:Document</data><data key="id">ee121781e82de2f0a708f91aa3b29231</data><data key="source">Classic Pancakes</data><data key="text">Recipe: Classic Pancakes
+Cuisine: American
+Ingredients: 1 cup all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, 1/2 teaspoon salt, 1 cup milk, 1 large egg, 2 tablespoons melted butter</data></node>
+<node id="n20" labels=":Recipe:__Entity__"><data key="labels">:Recipe:__Entity__</data><data key="id">recipe_1</data><data key="name">recipes.pdf</data><data key="cuisine">American</data><data key="step_count">7</data><data key="ingredient_count">7</data></node>
+<node id="n21" labels=":Cuisine:__Entity__"><data key="labels">:Cuisine:__Entity__</data><data key="id">cuisine_16</data><data key="name">American</data></node>
+<node id="n22" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_2</data><data key="name">All-Purpose Flour</data></node>
+<node id="n23" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_3</data><data key="name">Sugar</data></node>
+<node id="n24" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_4</data><data key="name">Baking Powder</data></node>
+<node id="n25" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_5</data><data key="name">Salt</data></node>
+<node id="n26" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_6</data><data key="name">Milk</data></node>
+<node id="n27" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_7</data><data key="name">Egg</data></node>
+<node id="n28" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_8</data><data key="name">Melted Butter</data></node>
+<node id="n29" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_9</data><data key="step_number">1</data><data key="description">In a large bowl, mix flour, sugar, baking powder, and salt.</data><data key="order">1</data></node>
+<node id="n30" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_10</data><data key="step_number">2</data><data key="description">Make a well in the center and pour in milk, egg, and melted butter.</data><data key="order">2</data></node>
+<node id="n31" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_11</data><data key="step_number">3</data><data key="description">Mix until smooth.</data><data key="order">3</data></node>
+<node id="n32" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_12</data><data key="step_number">4</data><data key="description">Heat a lightly oiled griddle over medium-high heat.</data><data key="order">4</data></node>
+<node id="n33" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_13</data><data key="step_number">5</data><data key="description">Pour batter onto the griddle.</data><data key="order">5</data></node>
+<node id="n34" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_14</data><data key="step_number">6</data><data key="description">Cook until bubbles form and edges are dry.</data><data key="order">6</data></node>
+<node id="n35" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_15</data><data key="step_number">7</data><data key="description">Flip and cook until browned.</data><data key="order">7</data></node>
+<node id="n36" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_33</data><data key="name">All-Purpose Flour</data></node>
+<node id="n37" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_34</data><data key="name">Butter, Softened</data></node>
+<node id="n38" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_35</data><data key="name">Brown Sugar</data></node>
+<node id="n39" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_36</data><data key="name">White Sugar</data></node>
+<node id="n40" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_37</data><data key="name">Chocolate Chips</data></node>
+<node id="n41" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_38</data><data key="name">Eggs</data></node>
+<node id="n42" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_39</data><data key="name">Vanilla Extract</data></node>
+<node id="n43" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">ingredient_40</data><data key="name">Baking Soda</data></node>
+<node id="n44" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_41</data><data key="step_number">1</data><data key="description">Preheat oven to 350°F (175°C).</data><data key="order">1</data></node>
+<node id="n45" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_42</data><data key="step_number">2</data><data key="description">Cream together butter and sugars until smooth.</data><data key="order">2</data></node>
+<node id="n46" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_43</data><data key="step_number">3</data><data key="description">Beat in eggs one at a time, then add vanilla.</data><data key="order">3</data></node>
+<node id="n47" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_44</data><data key="step_number">4</data><data key="description">Mix in flour and baking soda gradually.</data><data key="order">4</data></node>
+<node id="n48" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_45</data><data key="step_number">5</data><data key="description">Stir in chocolate chips.</data><data key="order">5</data></node>
+<node id="n49" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_46</data><data key="step_number">6</data><data key="description">Drop spoonfuls onto ungreased baking sheets.</data><data key="order">6</data></node>
+<node id="n50" labels=":Step:__Entity__"><data key="labels">:Step:__Entity__</data><data key="id">step_47</data><data key="step_number">7</data><data key="description">Bake for 10-12 minutes until edges are golden brown.</data><data key="order">7</data></node>
+<node id="n51" labels=":Document"><data key="labels">:Document</data><data key="id">aeca64fedd4a00e4b6a9daf2463d3dfa</data><data key="source">recipes.pdf</data><data key="text">Classic Pancakes Recipe
+Ingredients:
+- 1 cup all-purpose flour
+- 2 tablespoons sugar
+- 2 teaspoons baking powder
+- 1/2 teaspoon salt
+- 1 cup milk
+- 1 large egg
+- 2 tablespoons melted butter
+Instructions:
+1. In a large bowl, mix flour, sugar, baking powder, and salt.
+2. Make a well in the center and pour in milk, egg, and melted butter.
+3. Mix until smooth.
+4. Heat a lightly oiled griddle over medium-high heat.
+5. Pour batter onto the griddle.
+6. Cook until bubbles form and edges are dry.
+7. Flip and cook until browned.
+</data></node>
+<node id="n52" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">node_2</data><data key="name">- 1 cup all-purpose flour</data></node>
+<node id="n53" labels=":Document"><data key="labels">:Document</data><data key="id">8811a748818eecbf852b46e3b184165c</data><data key="source">recipes.html</data><data key="text">
+
+
+
+Chocolate Chip Cookies
+
+
+Ingredients
+
+
+
+
+2 cups flour
+
+
+1 cup butter
+
+
+1 cup chocolate chips
+
+
+2 eggs
+
+
+
+
+Instructions
+
+
+
+
+Preheat oven to 375°F.
+
+
+Mix ingredients.
+
+
+Bake for 10-12 minutes.
+
+
+
+
+
+</data></node>
+<node id="n54" labels=":Recipe:__Entity__"><data key="labels">:Recipe:__Entity__</data><data key="id">recipe_3</data><data key="name">recipes.html</data></node>
+<node id="n55" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">node_4</data><data key="name">2 cups flour</data></node>
+<node id="n56" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">node_5</data><data key="name">.</data></node>
+<node id="n57" labels=":Document"><data key="labels">:Document</data><data key="id">7e00fcb4dcc07842d4641744dd21b47e</data><data key="source">recipes.txt</data><data key="text">Vegetable Stir Fry
+
+Ingredients:
+- 2 cups mixed vegetables
+- 1 tbsp oil
+- 2 cloves garlic
+- 3 tbsp soy sauce
+
+Instructions:
+1. Heat oil.
+2. Add garlic.
+3. Add vegetables.
+4. Add sauce.
+5. Cook for 5 minutes.</data></node>
+<node id="n58" labels=":Recipe:__Entity__"><data key="labels">:Recipe:__Entity__</data><data key="id">recipe_6</data><data key="name">recipes.txt</data></node>
+<node id="n59" labels=":Ingredient:__Entity__"><data key="labels">:Ingredient:__Entity__</data><data key="id">node_7</data><data key="name">- 2 cups mixed vegetables</data></node>
+<node id="n60" labels=":Document"><data key="labels">:Document</data><data key="id">d41d8cd98f00b204e9800998ecf8427e</data><data key="source">recipe_utils.py</data><data key="text"></data></node>
+<node id="n61" labels=":Recipe:__Entity__"><data key="labels">:Recipe:__Entity__</data><data key="id">recipe_8</data><data key="name">recipe_utils.py</data></node>
+<edge id="e1152927002164985856" source="n0" target="n1" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1155178801978671104" source="n0" target="n2" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1157430601792356352" source="n0" target="n3" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1159682401606041600" source="n0" target="n4" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1161934201419726848" source="n0" target="n5" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1164186001233412096" source="n0" target="n6" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1166437801047097344" source="n0" target="n7" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1168689600860782592" source="n0" target="n8" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1170941400674467840" source="n0" target="n9" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1173193200488153088" source="n0" target="n10" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1175445000301838336" source="n0" target="n11" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1177696800115523584" source="n0" target="n12" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1179948599929208832" source="n0" target="n13" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1182200399742894080" source="n0" target="n14" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1184452199556579328" source="n0" target="n15" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1152923703630102529" source="n1" target="n2" label="BELONGS_TO_CUISINE"><data key="label">BELONGS_TO_CUISINE</data></edge>
+<edge id="e1152924803141730305" source="n1" target="n3" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1155176602955415553" source="n1" target="n4" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1157428402769100801" source="n1" target="n5" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1159680202582786049" source="n1" target="n6" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1161932002396471297" source="n1" target="n7" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1164183802210156545" source="n1" target="n8" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1166435602023841793" source="n1" target="n9" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1152925902653358081" source="n1" target="n10" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1155177702467043329" source="n1" target="n11" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1157429502280728577" source="n1" target="n12" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1159681302094413825" source="n1" target="n13" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1161933101908099073" source="n1" target="n14" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1164184901721784321" source="n1" target="n15" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1152927002164985872" source="n16" target="n17" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1155178801978671120" source="n16" target="n18" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1157430601792356368" source="n16" target="n36" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1159682401606041616" source="n16" target="n37" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1161934201419726864" source="n16" target="n38" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1164186001233412112" source="n16" target="n39" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1166437801047097360" source="n16" target="n40" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1168689600860782608" source="n16" target="n41" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1170941400674467856" source="n16" target="n42" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1173193200488153104" source="n16" target="n43" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1175445000301838352" source="n16" target="n44" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1177696800115523600" source="n16" target="n45" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1179948599929208848" source="n16" target="n46" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1182200399742894096" source="n16" target="n47" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1184452199556579344" source="n16" target="n48" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1186703999370264592" source="n16" target="n49" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1188955799183949840" source="n16" target="n50" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1152923703630102545" source="n17" target="n18" label="BELONGS_TO_CUISINE"><data key="label">BELONGS_TO_CUISINE</data></edge>
+<edge id="e1152924803141730321" source="n17" target="n36" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1155176602955415569" source="n17" target="n37" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1157428402769100817" source="n17" target="n38" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1159680202582786065" source="n17" target="n39" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1161932002396471313" source="n17" target="n40" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1164183802210156561" source="n17" target="n41" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1166435602023841809" source="n17" target="n42" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1168687401837527057" source="n17" target="n43" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1152925902653358097" source="n17" target="n44" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1155177702467043345" source="n17" target="n45" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1157429502280728593" source="n17" target="n46" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1159681302094413841" source="n17" target="n47" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1161933101908099089" source="n17" target="n48" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1164184901721784337" source="n17" target="n49" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1166436701535469585" source="n17" target="n50" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1152927002164985875" source="n19" target="n20" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1155178801978671123" source="n19" target="n21" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1157430601792356371" source="n19" target="n22" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1159682401606041619" source="n19" target="n23" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1161934201419726867" source="n19" target="n24" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1164186001233412115" source="n19" target="n25" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1166437801047097363" source="n19" target="n26" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1168689600860782611" source="n19" target="n27" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1170941400674467859" source="n19" target="n28" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1173193200488153107" source="n19" target="n29" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1175445000301838355" source="n19" target="n30" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1177696800115523603" source="n19" target="n31" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1179948599929208851" source="n19" target="n32" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1182200399742894099" source="n19" target="n33" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1184452199556579347" source="n19" target="n34" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1186703999370264595" source="n19" target="n35" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e6917530127152709684" source="n20" target="n52" label="HAS_INGREDIENT"><data key="label">HAS_INGREDIENT</data></edge>
+<edge id="e1152923703630102548" source="n20" target="n21" label="BELONGS_TO_CUISINE"><data key="label">BELONGS_TO_CUISINE</data></edge>
+<edge id="e1152924803141730324" source="n20" target="n22" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1155176602955415572" source="n20" target="n23" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1157428402769100820" source="n20" target="n24" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1159680202582786068" source="n20" target="n25" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1161932002396471316" source="n20" target="n26" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1164183802210156564" source="n20" target="n27" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1166435602023841812" source="n20" target="n28" label="USES_INGREDIENT"><data key="label">USES_INGREDIENT</data></edge>
+<edge id="e1152925902653358100" source="n20" target="n29" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1155177702467043348" source="n20" target="n30" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1157429502280728596" source="n20" target="n31" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1159681302094413844" source="n20" target="n32" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1161933101908099092" source="n20" target="n33" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1164184901721784340" source="n20" target="n34" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1166436701535469588" source="n20" target="n35" label="HAS_STEP"><data key="label">HAS_STEP</data></edge>
+<edge id="e1152927002164985907" source="n51" target="n20" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1155178801978671155" source="n51" target="n52" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1152927002164985909" source="n53" target="n54" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1155178801978671157" source="n53" target="n55" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1157430601792356405" source="n53" target="n56" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1152922604118474806" source="n54" target="n55" label="HAS_INGREDIENT"><data key="label">HAS_INGREDIENT</data></edge>
+<edge id="e1155174403932160054" source="n54" target="n56" label="HAS_INGREDIENT"><data key="label">HAS_INGREDIENT</data></edge>
+<edge id="e1152927002164985913" source="n57" target="n58" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1155178801978671161" source="n57" target="n59" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+<edge id="e1152922604118474810" source="n58" target="n59" label="HAS_INGREDIENT"><data key="label">HAS_INGREDIENT</data></edge>
+<edge id="e1152927002164985916" source="n60" target="n61" label="MENTIONS"><data key="label">MENTIONS</data></edge>
+</graph>
+</graphml>
